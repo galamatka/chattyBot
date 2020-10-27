@@ -1,2 +1,1 @@
-# school_pro
-Simple Chatty Bot
+project description: https://hyperskill.org/projects/31
